@@ -18,6 +18,6 @@
 
 
 
-### 2. 점프 투 파이썬
-
+### 2. [점프 투 파이썬](./JumpToPython)
+1. [숫자형(Number)](./JumpToPython/Number.py)
 (...)
