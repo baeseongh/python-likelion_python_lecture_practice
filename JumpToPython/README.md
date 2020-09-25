@@ -3,12 +3,18 @@
 
 ## [구성]
 ### 1. 파이썬 기본 문법 익히기
-#### 1.1 파이썬 자료형
-1. [숫자형(Number)](./Number.py)
-2. [문자열(String)](./String.py)
-3. [리스트(List)](./List.py)
-4. [튜플(Tuple)](./Tuple.py)
-5. [딕셔너리(Dictionary)](./Dictionary.py)
+#### 1.1 자료형
+1. [숫자형(Number)](./DataType/Number.py)
+2. [문자열(String)](./DataType/String.py)
+3. [리스트(List)](./DataType/List.py)
+4. [튜플(Tuple)](./DataType/Tuple.py)
+5. [딕셔너리(Dictionary)](./DataType/Dictionary.py)
+6. [집합(Set)](./DataType/Set.py)
+7. [불(Bool)](./DataType/Bool.py)
+8. [변수(variable)](./DataType/Variable.py)
+9. [연습문제](./DataType/ExerciseProblem.py)
+
+#### 1.2 제어문
 
 (...)
 
