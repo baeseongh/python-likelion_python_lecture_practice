@@ -11,7 +11,7 @@
 5. [딕셔너리(Dictionary)](./DataType/Dictionary.py)
 6. [집합(Set)](./DataType/Set.py)
 7. [불(Bool)](./DataType/Bool.py)
-8. [변수(variable)](./DataType/Variable.py)
+8. [변수(Variable)](./DataType/Variable.py)
 9. [연습문제](./DataType/ExerciseProblem.py)
 
 #### 1.2 제어문
