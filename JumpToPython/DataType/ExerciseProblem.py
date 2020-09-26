@@ -74,32 +74,15 @@ res = a.pop('B')
 print(a)
 print(res)
 
+
 #Q11
 a = [1,1,1,2,2,3,3,3,4,4,5]
 aSet = set(a)
 b = list(aSet)
 print(b)
 
+
 #Q12
 a = b = [1,2,3]
 a[1] = 4
 print(b) # [1,4,3] 출력 (a와 b는 같은 메모리를 가리키고 있기 때문에 a와 b모두 값이 변경된다.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

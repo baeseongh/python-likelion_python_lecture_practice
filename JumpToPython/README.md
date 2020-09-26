@@ -15,6 +15,8 @@
 9. [연습문제](./DataType/ExerciseProblem.py)
 
 #### 1.2 제어문
+1. [if문](./ControlStatement/if.py)
+2. [while문](./ControlStatement/while.py)
 
 (...)
 
