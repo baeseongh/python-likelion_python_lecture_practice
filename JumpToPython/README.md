@@ -17,6 +17,11 @@
 #### 1.2 제어문
 1. [if문](./ControlStatement/if.py)
 2. [while문](./ControlStatement/while.py)
+3. [for문](./ControlStatement/for.py)
+4. [연습문제](./ControlStatement/ExerciseProblem.py)
+
+#### 1.3 입출력
+1. [함수(Function)](./InputOutput/Function.py)
 
 (...)
 
